@@ -86,7 +86,7 @@ st.write("")
 
 #st.image('bankloan.png',width=700,)
 st.markdown('<div class="main-title">💳 Loan Risk Prediction System</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Machine Learning Project • Random Forest • Streamlit Deployment 🚀</div>', unsafe_allow_html=True)
+#st.markdown('<div class="subtitle">Machine Learning Project • Random Forest • Streamlit Deployment 🚀</div>', unsafe_allow_html=True)
 
 st.write("")
 
